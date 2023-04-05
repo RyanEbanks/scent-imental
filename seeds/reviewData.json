@@ -3,6 +3,42 @@
         "review_description": "Healed so many years of childhood trauma!",
         "rating": 5,
         "product_id": 1,
-        "user_id": 1
+        "user_id": 1,
+        "date_created": "2/14/2022"
+    },
+    {
+        "review_description": "I was adopted and never knew my biological father, but this made me feel close to him anyway.",
+        "rating": 5,
+        "product_id": 1,
+        "user_id": 2,
+        "date_created": "6/11/2020"
+    },
+    {
+        "review_description": "Nothing like the real thing.",
+        "rating": 1,
+        "product_id": 1,
+        "user_id": 3,
+        "date_created": "12/1/2019"
+    },
+    {
+        "review_description": "Gives me the daily confidence to put my nemesis in his place.",
+        "rating": 4,
+        "product_id": 2,
+        "user_id": 3,
+        "date_created": "1/8/2023"
+    },
+    {
+        "review_description": "Every day can be fall!",
+        "rating": 5,
+        "product_id": 3,
+        "user_id": 1,
+        "date_created": "7/26/2022"
+    },
+    {
+        "review_description": "Although I do not condone violence, this does smell very nice.",
+        "rating": 4,
+        "product_id": 4,
+        "user_id": 5,
+        "date_created": "2/8/2021"
     }
 ]

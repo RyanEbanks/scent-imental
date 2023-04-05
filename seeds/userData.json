@@ -4,5 +4,29 @@
         "first_name": "Eric",
         "last_name": "Carmen",
         "password": "password12345"
+    },
+    {
+        "email": "mostfamousparents@gmail.com",
+        "first_name": "Maddox",
+        "last_name": "Jolie-Pitt",
+        "password": "password12345"
+    },
+    {
+        "email": "slytherinrules@aol.com",
+        "first_name": "Draco",
+        "last_name": "Malfoy",
+        "password": "password12345"
+    },
+    {
+        "email": "fakeplumber@yahoo.com",
+        "first_name": "Mario",
+        "last_name": "Italiano",
+        "password": "password12345"
+    },
+    {
+        "email": "queenofgenovia@gmail.com",
+        "first_name": "Amelia",
+        "last_name": "Thermopolis",
+        "password": "password12345"
     }
 ]

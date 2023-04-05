@@ -1,8 +1,26 @@
 [
     {
-        "price": 15.00,
+        "price": 14.99,
         "product_name": "The Hug You Never Got From Your Father",
         "description": "Buy the love you never received freely.",
-        "image": "white-candle.jpg"
+        "image": "candle_white.jpg"
+    },
+    {
+        "price": 722.00,
+        "product_name": "Big Chosen One Energy",
+        "description": "You may not have been born the chosen one, but you're still better than everyone else.",
+        "image": "cologne_wings.jpg"
+    },
+    {
+        "price": 19.99,
+        "product_name": "Don't Trust The Weather Channel",
+        "description": "No sun, no clouds, no rain. Only vibes.",
+        "image": "candle_fall.jpg"
+    },
+    {
+        "price": 89.50,
+        "product_name": "Breaking Hearts Or Breaking Necks",
+        "description": "Do they love to hate you, or hate to love you?",
+        "image": "perfume_queenofhearts.jpg"
     }
 ]
