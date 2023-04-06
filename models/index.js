@@ -11,7 +11,7 @@ User.belongsToMany(Product, {
 });
 
 Product.belongsToMany(User, {
-  foreignKey: "user_id",
+  foreignKey: "product_id",
   through: UserProduct,
 });
 
