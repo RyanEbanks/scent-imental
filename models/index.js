@@ -5,3 +5,4 @@ const Tag = require('./Tag');
 const User = require('./User');
 const UserProduct = require('./UserProduct');
 
+User.hasMany()
