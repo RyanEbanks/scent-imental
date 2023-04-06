@@ -23,7 +23,10 @@ Product.init(
       type: DataTypes.STRING,
       allowNull: false,
     },
-    image: {},
+    image: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    },
   },
   {
     sequelize,
