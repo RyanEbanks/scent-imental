@@ -3,21 +3,21 @@
         "tag_name": "candle"
     },
     {
-        "tag_name": "perfume"
-    },
-    {
         "tag_name": "cologne"
     },
     {
-        "tag_name": "fall"
+        "tag_name": "perfume"
     },
     {
-        "tag_name": "winter"
+        "tag_name": "fall"
     },
     {
         "tag_name": "spring"
     },
     {
         "tag_name": "summer"
+    },
+    {
+        "tag_name": "winter"
     }
 ]
