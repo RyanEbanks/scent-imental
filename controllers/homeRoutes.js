@@ -4,7 +4,8 @@ const {Product, ProductTag, Review, Tag, UserProduct} = require('../models/');
 // get all posts for homepage
 router.get('/', async (req, res) => {
     try {
-        res.status(200).json("Homepage Route Working!")
+        // res.status(200).json("Homepage Route Working!")
+        res.render('homepage');
     } catch(err) {
         res.status(500).json(err);
     }
@@ -45,8 +46,8 @@ router.get('/', async (req, res) => {
     //   return;
     // }
   
-    // res.render('signup');
-    res.status(200).json("Signup Route Working!")
+    res.render('signup');
+    // res.status(200).json("Signup Route Working!")
   });
   
   module.exports = router;
