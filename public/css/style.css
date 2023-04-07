@@ -23,7 +23,20 @@
     background-position: center;
     background-size: cover;
     height: 100vh;
-  }
+}
+
+.featuredCard {
+    margin-top: 1%;
+    margin-bottom: 0;
+    background-color: #394046;
+    background-image: url("../images/front-end-imgs/perfume-featured-card.png");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.featuredScent {
+    font-size: 8rem;
+}
 
 .cover-img {
     border-radius: 10px;
