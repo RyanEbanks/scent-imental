@@ -24,7 +24,7 @@ router.get('/', async (req, res) => {
   router.get('/category/:tag', async (req, res) => {
     try {
       const productData = await Product.findAll({
-        include: [ProductTag, UserProduct],
+        include: [ProductTag, UserProduct, Tag],
       });
       
       const product = productData.map((prod) => prod.get({ plain: true }));
