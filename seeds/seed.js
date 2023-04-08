@@ -17,14 +17,14 @@ const seedDatabase = async () => {
 
   const reviews = await Review.bulkCreate(reviewData);
 
-  const tagData = await Tag.bulkCreate(tagData);
+  const tags = await Tag.bulkCreate(tagData);
 
   const users = await User.bulkCreate(userData, {
     individualHooks: true,
     returning: true,
   });
 
-  const userProductData = await Tag.bulkCreate(userProductData);
+  const userProducts = await Tag.bulkCreate(userProductData);
 
   process.exit(0);
 };
