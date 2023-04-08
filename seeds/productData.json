@@ -6,93 +6,93 @@
         "image": "candle_fall_1.jpg"
     },
     {
-        "price": 19.99,
-        "product_name": "Don't Trust The Weather Channel",
-        "description": "No sun, no clouds, no rain. Only vibes.",
+        "price": 24.99,
+        "product_name": "Basic White Girl",
+        "description": "Ugg boots.  Flannel shirts.  Live, laugh, love.",
         "image": "candle_fall_1.jpg"
     },
     {
         "price": 19.99,
-        "product_name": "Don't Trust The Weather Channel",
-        "description": "No sun, no clouds, no rain. Only vibes.",
+        "product_name": "Camping Is Never As Fun As You Think It Will Be",
+        "description": "The outdoor experience, indoors.",
         "image": "candle_fall_1.jpg"
     },
     {
         "price": 19.99,
-        "product_name": "Don't Trust The Weather Channel",
-        "description": "No sun, no clouds, no rain. Only vibes.",
+        "product_name": "I'm Not Lonely, You're Lonely",
+        "description": "You can't buy more friends, but you can buy more candles.",
         "image": "candle_fall_1.jpg"
     },
     {
         "price": 19.99,
-        "product_name": "Don't Trust The Weather Channel",
-        "description": "No sun, no clouds, no rain. Only vibes.",
+        "product_name": "That Book You Keep Saying You're Going To Read",
+        "description": "If you have time to enjoy a candle, you have time to read that book.",
         "image": "candle_fall_1.jpg"
     },
     {
         "price": 19.99,
-        "product_name": "Don't Trust The Weather Channel",
-        "description": "No sun, no clouds, no rain. Only vibes.",
+        "product_name": "Already Have Plans",
+        "description": "You never have to feel guilty for being a hermit.",
         "image": "candle_fall_1.jpg"
+    },
+    {
+        "price": 24.99,
+        "product_name": "Everyone Is Happy Sometimes",
+        "description": "By the time this candle is done burning, maybe you won't be depressed anymore.",
+        "image": "candle_fall_1.jpg"
+    },
+    {
+        "price": 29.99,
+        "product_name": "Monday Morning",
+        "description": "For those who love Mondays.",
+        "image": "candle_fall_1.jpg"
+    },
+    {
+        "price": 24.99,
+        "product_name": "Better Than Outside",
+        "description": "Why would you want to go outside? There's pollen and bugs and other people out there.",
+        "image": "candle_spring_1.jpg"
+    },
+    {
+        "price": 34.99,
+        "product_name": "A Bird In The Hand",
+        "description": "Is one less bird screeching outside of your window at dawn.",
+        "image": "candle_spring_1.jpg"
     },
     {
         "price": 19.99,
-        "product_name": "Don't Trust The Weather Channel",
-        "description": "No sun, no clouds, no rain. Only vibes.",
-        "image": "candle_fall_1.jpg"
+        "product_name": "Fancy Tea Party",
+        "description": "When even boiling water and patience is too much effort.",
+        "image": "candle_spring_1.jpg"
+    },
+    {
+        "price": 24.99,
+        "product_name": "Giraffe In Space",
+        "description": "It's so peaceful up there; not a single person commenting on the length of your neck.",
+        "image": "candle_spring_1.jpg"
+    },
+    {
+        "price": 54.99,
+        "product_name": "Octopus Playing Accordion",
+        "description": "Admit it... you're kind of curious.",
+        "image": "candle_spring_1.jpg"
     },
     {
         "price": 19.99,
-        "product_name": "Don't Trust The Weather Channel",
-        "description": "No sun, no clouds, no rain. Only vibes.",
-        "image": "candle_fall_1.jpg"
-    },
-    {
-        "price": 24.99,
-        "product_name": "Better Than Outside",
-        "description": "Why would you want to go outside? There's pollen and bugs and other people out there.",
+        "product_name": "Robot Vacuum Orchestra",
+        "description": "It's a loud candle.",
         "image": "candle_spring_1.jpg"
     },
     {
         "price": 24.99,
-        "product_name": "Better Than Outside",
-        "description": "Why would you want to go outside? There's pollen and bugs and other people out there.",
+        "product_name": "Ninja Turtle Wedding",
+        "description": "Burns as slow as the walk down the aisle.",
         "image": "candle_spring_1.jpg"
     },
     {
         "price": 24.99,
-        "product_name": "Better Than Outside",
-        "description": "Why would you want to go outside? There's pollen and bugs and other people out there.",
-        "image": "candle_spring_1.jpg"
-    },
-    {
-        "price": 24.99,
-        "product_name": "Better Than Outside",
-        "description": "Why would you want to go outside? There's pollen and bugs and other people out there.",
-        "image": "candle_spring_1.jpg"
-    },
-    {
-        "price": 24.99,
-        "product_name": "Better Than Outside",
-        "description": "Why would you want to go outside? There's pollen and bugs and other people out there.",
-        "image": "candle_spring_1.jpg"
-    },
-    {
-        "price": 24.99,
-        "product_name": "Better Than Outside",
-        "description": "Why would you want to go outside? There's pollen and bugs and other people out there.",
-        "image": "candle_spring_1.jpg"
-    },
-    {
-        "price": 24.99,
-        "product_name": "Better Than Outside",
-        "description": "Why would you want to go outside? There's pollen and bugs and other people out there.",
-        "image": "candle_spring_1.jpg"
-    },
-    {
-        "price": 24.99,
-        "product_name": "Better Than Outside",
-        "description": "Why would you want to go outside? There's pollen and bugs and other people out there.",
+        "product_name": "You Must Think I'm Edible",
+        "description": "But I'm not.  I'm made of wax.  Please do not eat the candle.",
         "image": "candle_spring_1.jpg"
     },
     {
@@ -102,87 +102,87 @@
         "image": "candle_summer_1.jpg"
     },
     {
-        "price": 49.99,
-        "product_name": "Can't Afford A Vacation",
-        "description": "Make any house a beach house.",
+        "price": 19.99,
+        "product_name": "Daytime Decade",
+        "description": "The days are finally long.  A little too long.",
         "image": "candle_summer_1.jpg"
     },
     {
-        "price": 49.99,
-        "product_name": "Can't Afford A Vacation",
-        "description": "Make any house a beach house.",
+        "price": 19.99,
+        "product_name": "Love Like A Summer Stock",
+        "description": "Hot and simmering.  Make a meal out of it.",
         "image": "candle_summer_1.jpg"
     },
     {
-        "price": 49.99,
-        "product_name": "Can't Afford A Vacation",
-        "description": "Make any house a beach house.",
+        "price": 24.99,
+        "product_name": "Wanting What You Can't Have",
+        "description": "You wanted this when it was winter, but now you wish it was cold again.",
         "image": "candle_summer_1.jpg"
     },
     {
-        "price": 49.99,
-        "product_name": "Can't Afford A Vacation",
-        "description": "Make any house a beach house.",
+        "price": 24.99,
+        "product_name": "The Ocean Is Alive",
+        "description": "Oh no, what just touched my leg?",
         "image": "candle_summer_1.jpg"
     },
     {
-        "price": 49.99,
-        "product_name": "Can't Afford A Vacation",
-        "description": "Make any house a beach house.",
+        "price": 19.99,
+        "product_name": "Eager Beaver",
+        "description": "This candle lights itself.  Might want to have a fire extinguisher nearby.",
         "image": "candle_summer_1.jpg"
     },
     {
-        "price": 49.99,
-        "product_name": "Can't Afford A Vacation",
-        "description": "Make any house a beach house.",
+        "price": 19.99,
+        "product_name": "Tapping The Maple",
+        "description": "It's a slow process, but worth it in the end.",
         "image": "candle_summer_1.jpg"
     },
     {
-        "price": 49.99,
-        "product_name": "Can't Afford A Vacation",
-        "description": "Make any house a beach house.",
+        "price": 19.99,
+        "product_name": "Lego Cherry Blossom",
+        "description": "A man-made version of the real thing.",
         "image": "candle_summer_1.jpg"
     },
     {
-        "price": 14.99,
+        "price": 24.99,
         "product_name": "The Hug You Never Got From Your Father",
         "description": "Buy the love you never received freely.",
         "image": "candle_winter_1.jpg"
     },
     {
-        "price": 14.99,
-        "product_name": "The Hug You Never Got From Your Father",
-        "description": "Buy the love you never received freely.",
+        "price": 24.99,
+        "product_name": "Rich Mahogany",
+        "description": "For when you want your friends to think your house smells like rich mahogany and leatherbound books.",
         "image": "candle_winter_1.jpg"
     },
     {
         "price": 14.99,
-        "product_name": "The Hug You Never Got From Your Father",
-        "description": "Buy the love you never received freely.",
+        "product_name": "Surrendering At Night",
+        "description": "It's dark literally all the time.  Just embrace it.",
         "image": "candle_winter_1.jpg"
     },
     {
         "price": 14.99,
-        "product_name": "The Hug You Never Got From Your Father",
-        "description": "Buy the love you never received freely.",
+        "product_name": "Zombie Apocalypse",
+        "description": "Is it happening?  You'll never know until it's too late.",
         "image": "candle_winter_1.jpg"
     },
     {
-        "price": 14.99,
-        "product_name": "The Hug You Never Got From Your Father",
-        "description": "Buy the love you never received freely.",
+        "price": 19.99,
+        "product_name": "Chatting And Chatting And Chatting And Chatting",
+        "description": "Extra long-lasting.",
         "image": "candle_winter_1.jpg"
     },
     {
-        "price": 14.99,
-        "product_name": "The Hug You Never Got From Your Father",
-        "description": "Buy the love you never received freely.",
+        "price": 19.99,
+        "product_name": "I'm The Splendid One",
+        "description": "Yes, the freshly fallen snow is majestic.  But so are you.",
         "image": "candle_winter_1.jpg"
     },
     {
-        "price": 14.99,
-        "product_name": "The Hug You Never Got From Your Father",
-        "description": "Buy the love you never received freely.",
+        "price": 19.99,
+        "product_name": "I've Been Hearing Himalaya",
+        "description": "The next best thing to a ski trip.",
         "image": "candle_winter_1.jpg"
     },
     {
@@ -193,8 +193,8 @@
     },
     {
         "price": 722.00,
-        "product_name": "Manly Man",
-        "description": "Leather.  Bourbon.  Cigars.  Big trucks.  Patriarchy.",
+        "product_name": "Old Leather Boot",
+        "description": "Worn in with a hint of mystery.",
         "image": "cologne_fall_1.jpg"
     },
     {
