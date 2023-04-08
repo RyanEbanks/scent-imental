@@ -21,9 +21,16 @@ router.get('/', async (req, res) => {
   });
 
   // Gets all products matching that tag
-  router.get('/item/:tag', async (req, res) => {
+  router.get('/category/:tag', async (req, res) => {
     try {
-        res.status(200).json("Retrieving all tags Route Working!")
+      const productData = await Product.findAll({
+        include: [ProductTag, UserProduct],
+      });
+      
+      const product = productData.map((prod) => prod.get({ plain: true }));
+
+      res.render('categoryProduct', { product });
+      // res.status(200).json("Retrieving all tags Route Working!")
     } catch(err) {
         res.status(500).json(err);
     }
@@ -31,20 +38,20 @@ router.get('/', async (req, res) => {
   
 
   router.get('/login', (req, res) => {
-    // if (req.session.loggedIn) {
-    //   res.redirect('/');
-    //   return;
-    // }
+    if (req.session.loggedIn) {
+      res.redirect('/');
+      return;
+    }
   
     res.render('login');
     // res.status(200).json("Login Route Working!")
   });
   
   router.get('/signup', (req, res) => {
-    // if (req.session.loggedIn) {
-    //   res.redirect('/');
-    //   return;
-    // }
+    if (req.session.loggedIn) {
+      res.redirect('/');
+      return;
+    }
   
     res.render('signup');
     // res.status(200).json("Signup Route Working!")
