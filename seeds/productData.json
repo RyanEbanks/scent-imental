@@ -384,45 +384,45 @@
         "image": "perfume_fall_1.jpg"
     },
     {
-        "price": 89.50,
-        "product_name": "Howl At The Moon",
-        "description": "This is for you.  Do what you want.",
+        "price": 50.00,
+        "product_name": "London Style",
+        "description": "Irresistible to all Americans.",
         "image": "perfume_fall_1.jpg"
     },
     {
-        "price": 89.50,
-        "product_name": "Howl At The Moon",
-        "description": "This is for you.  Do what you want.",
+        "price": 25.00,
+        "product_name": "Small Town Girl",
+        "description": "It's about the Journey, not the destination.",
         "image": "perfume_fall_1.jpg"
     },
     {
-        "price": 89.50,
-        "product_name": "Howl At The Moon",
-        "description": "This is for you.  Do what you want.",
+        "price": 99.99,
+        "product_name": "Two Sides",
+        "description": "Keep them guessing with dueling scents.",
         "image": "perfume_fall_1.jpg"
     },
     {
-        "price": 89.50,
-        "product_name": "Howl At The Moon",
-        "description": "This is for you.  Do what you want.",
+        "price": 65.50,
+        "product_name": "City Lights",
+        "description": "Drive fast, but take it in slowly.",
         "image": "perfume_fall_1.jpg"
     },
     {
-        "price": 89.50,
-        "product_name": "Howl At The Moon",
-        "description": "This is for you.  Do what you want.",
+        "price": 105.00,
+        "product_name": "A Bit Of Red",
+        "description": "Mysterious and alluring.  Maybe stay away from bulls though.",
         "image": "perfume_fall_1.jpg"
     },
     {
-        "price": 89.50,
-        "product_name": "Howl At The Moon",
-        "description": "This is for you.  Do what you want.",
+        "price": 64.99,
+        "product_name": "Have To Cry",
+        "description": "Sometimes you just need to let it all out, and this scent is spicy enough to get those tears flowing.",
         "image": "perfume_fall_1.jpg"
     },
     {
-        "price": 89.50,
-        "product_name": "Howl At The Moon",
-        "description": "This is for you.  Do what you want.",
+        "price": 70.00,
+        "product_name": "Standing Here Waiting",
+        "description": "Might as well smell good doin' it.",
         "image": "perfume_fall_1.jpg"
     },
     {
@@ -432,45 +432,45 @@
         "image": "perfume_spring_1.jpg"
     },
     {
-        "price": 65.00,
+        "price": 75.00,
         "product_name": "Ooh, Lilacs",
         "description": "Smells like daffodils.",
         "image": "perfume_spring_1.jpg"
     },
     {
-        "price": 65.00,
-        "product_name": "Personal Space",
-        "description": "A scent so powerful, no one will get within five feet of you.",
+        "price": 88.88,
+        "product_name": "Wish For Two",
+        "description": "Two more extra days in the weekend, amiright?",
+        "image": "perfume_spring_1.jpg"
+    },
+    {
+        "price": 35.00,
+        "product_name": "Good Enough",
+        "description": "Not perfect, but not too bad either.",
+        "image": "perfume_spring_1.jpg"
+    },
+    {
+        "price": 149.99,
+        "product_name": "Paint The Sky",
+        "description": "I've always wanted someone to send me one of those skyplane messages.",
         "image": "perfume_spring_1.jpg"
     },
     {
         "price": 65.00,
-        "product_name": "Personal Space",
-        "description": "A scent so powerful, no one will get within five feet of you.",
+        "product_name": "Heart Speak",
+        "description": "Sounds vaguely... threatening?",
+        "image": "perfume_spring_1.jpg"
+    },
+    {
+        "price": 94.99,
+        "product_name": "Angel On My Shoulder",
+        "description": "And the devil at my feet.  Really, what would I do without those two?",
         "image": "perfume_spring_1.jpg"
     },
     {
         "price": 65.00,
-        "product_name": "Personal Space",
-        "description": "A scent so powerful, no one will get within five feet of you.",
-        "image": "perfume_spring_1.jpg"
-    },
-    {
-        "price": 65.00,
-        "product_name": "Personal Space",
-        "description": "A scent so powerful, no one will get within five feet of you.",
-        "image": "perfume_spring_1.jpg"
-    },
-    {
-        "price": 65.00,
-        "product_name": "Personal Space",
-        "description": "A scent so powerful, no one will get within five feet of you.",
-        "image": "perfume_spring_1.jpg"
-    },
-    {
-        "price": 65.00,
-        "product_name": "Personal Space",
-        "description": "A scent so powerful, no one will get within five feet of you.",
+        "product_name": "Without Warning",
+        "description": "Something unexpected.  Take them by surprise, always.",
         "image": "perfume_spring_1.jpg"
     },
     {
@@ -480,45 +480,45 @@
         "image": "perfume_summer_1.jpg"
     },
     {
-        "price": 16.00,
+        "price": 18.99,
         "product_name": "Midsummer",
         "description": "A scent for the middle of the summer.  Or other times too, I guess.",
         "image": "perfume_summer_1.jpg"
     },
     {
-        "price": 16.00,
+        "price": 70.00,
         "product_name": "White Sun",
         "description": "SPF 50 or bust.",
         "image": "perfume_summer_1.jpg"
     },
     {
-        "price": 16.00,
-        "product_name": "Distraction",
-        "description": "Take your mind off the heat with this most unusual scent.",
+        "price": 160.00,
+        "product_name": "Silver Bullet",
+        "description": "Know when and how to use it, and you'll be unstoppable.",
         "image": "perfume_summer_1.jpg"
     },
     {
-        "price": 16.00,
-        "product_name": "Distraction",
-        "description": "Take your mind off the heat with this most unusual scent.",
+        "price": 99.99,
+        "product_name": "Vampire Meadow",
+        "description": "Makes you sparkle.  Literally, there's glitter in it.",
         "image": "perfume_summer_1.jpg"
     },
     {
-        "price": 16.00,
-        "product_name": "Distraction",
-        "description": "Take your mind off the heat with this most unusual scent.",
+        "price": 150.00,
+        "product_name": "Everybody's In Love With Me",
+        "description": "But I'm into myself, and that's really all that matters.",
         "image": "perfume_summer_1.jpg"
     },
     {
-        "price": 16.00,
-        "product_name": "Distraction",
-        "description": "Take your mind off the heat with this most unusual scent.",
+        "price": 200.00,
+        "product_name": "Someone Else Tonight",
+        "description": "When it's exhauting being you, just be someone else.",
         "image": "perfume_summer_1.jpg"
     },
     {
-        "price": 16.00,
-        "product_name": "Distraction",
-        "description": "Take your mind off the heat with this most unusual scent.",
+        "price": 74.99,
+        "product_name": "Drippin' In Finesse",
+        "description": "It's the real thing, no lie.",
         "image": "perfume_summer_1.jpg"
     },
     {
@@ -528,45 +528,45 @@
         "image": "perfume_winter_1.jpg"
     },
     {
-        "price": 899.99,
-        "product_name": "Prom Dress",
-        "description": "You may only wear it once, but at least it'll be memorable.",
+        "price": 49.99,
+        "product_name": "Always Remember",
+        "description": "All the things we said in December.",
+        "image": "perfume_winter_1.jpg"
+    },
+    {
+        "price": 65.00,
+        "product_name": "Wishing For Rain",
+        "description": "Moody and pensive.",
+        "image": "perfume_winter_1.jpg"
+    },
+    {
+        "price": 80.00,
+        "product_name": "That Kind Of Girl",
+        "description": "Nothing wrong with being that kind of girl.",
+        "image": "perfume_winter_1.jpg"
+    },
+    {
+        "price": 169.99,
+        "product_name": "Good Times",
+        "description": "Build a snowman.  Have some hot chocolate.  Set something on fire.",
+        "image": "perfume_winter_1.jpg"
+    },
+    {
+        "price": 75.00,
+        "product_name": "Forget Me Not",
+        "description": "One whiff and they'll remember you forever.",
+        "image": "perfume_winter_1.jpg"
+    },
+    {
+        "price": 24.99,
+        "product_name": "Hopes And Dreams",
+        "description": "It's just an empty bottle.",
         "image": "perfume_winter_1.jpg"
     },
     {
         "price": 899.99,
-        "product_name": "Prom Dress",
-        "description": "You may only wear it once, but at least it'll be memorable.",
-        "image": "perfume_winter_1.jpg"
-    },
-    {
-        "price": 899.99,
-        "product_name": "Prom Dress",
-        "description": "You may only wear it once, but at least it'll be memorable.",
-        "image": "perfume_winter_1.jpg"
-    },
-    {
-        "price": 899.99,
-        "product_name": "Prom Dress",
-        "description": "You may only wear it once, but at least it'll be memorable.",
-        "image": "perfume_winter_1.jpg"
-    },
-    {
-        "price": 899.99,
-        "product_name": "Prom Dress",
-        "description": "You may only wear it once, but at least it'll be memorable.",
-        "image": "perfume_winter_1.jpg"
-    },
-    {
-        "price": 899.99,
-        "product_name": "Prom Dress",
-        "description": "You may only wear it once, but at least it'll be memorable.",
-        "image": "perfume_winter_1.jpg"
-    },
-    {
-        "price": 899.99,
-        "product_name": "Prom Dress",
-        "description": "You may only wear it once, but at least it'll be memorable.",
+        "product_name": "Bad Dream",
+        "description": "You can either have one, or you can be one.  Go wild.",
         "image": "perfume_winter_1.jpg"
     }    
 ]
