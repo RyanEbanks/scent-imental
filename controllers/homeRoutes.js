@@ -24,15 +24,19 @@ router.get('/', async (req, res) => {
   router.get('/category/:tag', async (req, res) => {
     try {
       const productData = await Product.findAll({
-        include: [ProductTag, UserProduct, Tag],
+        include: [{all: true}],
       });
       
       const product = productData.map((prod) => prod.get({ plain: true }));
-
-      res.render('categoryProduct', { product });
+      
+      if (!productData) {
+        res.status(404).json({ message: 'No product found with this id!' });
+        return;
+      }
       // res.status(200).json("Retrieving all tags Route Working!")
+      res.render('categoryProduct', { product });
     } catch(err) {
-        res.status(500).json(err);
+      res.status(500).json(err);
     }
   });
   
