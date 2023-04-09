@@ -1,11 +1,19 @@
+<h1>{{product.product_name}}</h1>
 
-{{#each review}}
-<article>
-    <ul>
-        <li>{{this.review_description}}</li>
-    </ul>
-</article>
-{{/each}}
+{{#if product.reviews}}
+    {{#each product.reviews}}
+    <article>
+        <ul>
+            <li>
+                <input data-role="rating"
+                data-value="{{rating}}"
+                data-static="true"><br>
+                {{review_description}}<br>
+                Posted by: {{user.first_name}}</li>
+        </ul>
+    </article>
+    {{/each}}
+{{/if}}
 
 
 {{!-- Form to post new review --}}
