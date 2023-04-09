@@ -15,7 +15,12 @@ router.get('/', async (req, res) => {
   router.get('/item/:id', async (req, res) => {
     try {
         // res.status(200).json("Single item Route Working!")
-        res.render('singleProduct')
+        const reviewData = await Review.findAll({
+          include: [{all: true}],
+        });
+        const review = reviewData.map((review) =>
+          review.get({plain: true}));
+        res.render('singleProduct', { review });
     } catch(err) {
         res.status(500).json(err);
     }
