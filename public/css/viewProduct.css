@@ -1,0 +1,38 @@
+.center {
+    margin: auto;
+    width: 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cardText{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    border-radius: 1rem;
+}
+
+.card:hover{
+    cursor: pointer;
+    filter: brightness(85%);
+}
+
+.img{
+    border-radius: 1rem;
+}
+
+@media screen and (max-width: 820px) {
+    /* VV makes it look like instagram VV */
+    .flex-container {
+      display: inline;
+    }
+  }
