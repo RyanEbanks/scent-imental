@@ -1,6 +1,6 @@
 const express = require('express');
 const path = require('path');
-const routes = require('./controllers');
+// const routes = require('./controllers');
 const exphbs = require('express-handlebars');
 const helpers = require('./utils/helpers');
 const session = require('express-session');
@@ -44,7 +44,7 @@ app.set('view engine', 'handlebars');
 app.use(express.static(path.join(__dirname, 'public')));
 
 //Creating the parent route for home page api
-app.use('/home', routes);
+// app.use('/home', routes);
 
 app.use(require('./controllers/'));
 

@@ -14,7 +14,8 @@ router.get('/', async (req, res) => {
   // Gets a single item
   router.get('/item/:id', async (req, res) => {
     try {
-        res.status(200).json("Single item Route Working!")
+        // res.status(200).json("Single item Route Working!")
+        res.render('singleProduct')
     } catch(err) {
         res.status(500).json(err);
     }
