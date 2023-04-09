@@ -1,10 +1,3 @@
-// gsap.registerPlugin(CSSRulePlugin);
-// gsap.registerPlugin(ScrollTrigger);
-
-// ScrollTrigger.defaults({
-//   toggleActions: "restart pause resume pause",
-//   scroller: ".myborder"
-// });
 
 let tl = gsap.timeline({
     scrollTrigger: {

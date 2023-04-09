@@ -21,30 +21,41 @@ router.get('/', async (req, res) => {
   });
 
   // Gets all products matching that tag
-  router.get('/item/:tag', async (req, res) => {
+  router.get('/category/:tag', async (req, res) => {
     try {
-        res.status(200).json("Retrieving all tags Route Working!")
+      const productData = await Product.findAll({
+        include: [{all: true}],
+      });
+      
+      const product = productData.map((prod) => prod.get({ plain: true }));
+      
+      if (!productData) {
+        res.status(404).json({ message: 'No product found with this id!' });
+        return;
+      }
+      // res.status(200).json("Retrieving all tags Route Working!")
+      res.render('categoryProduct', { product });
     } catch(err) {
-        res.status(500).json(err);
+      res.status(500).json(err);
     }
   });
   
 
   router.get('/login', (req, res) => {
-    // if (req.session.loggedIn) {
-    //   res.redirect('/');
-    //   return;
-    // }
+    if (req.session.loggedIn) {
+      res.redirect('/');
+      return;
+    }
   
     res.render('login');
     // res.status(200).json("Login Route Working!")
   });
   
   router.get('/signup', (req, res) => {
-    // if (req.session.loggedIn) {
-    //   res.redirect('/');
-    //   return;
-    // }
+    if (req.session.loggedIn) {
+      res.redirect('/');
+      return;
+    }
   
     res.render('signup');
     // res.status(200).json("Signup Route Working!")

@@ -6,93 +6,93 @@
         "image": "candle_fall_1.jpg"
     },
     {
-        "price": 19.99,
-        "product_name": "Don't Trust The Weather Channel",
-        "description": "No sun, no clouds, no rain. Only vibes.",
+        "price": 24.99,
+        "product_name": "Basic White Girl",
+        "description": "Ugg boots.  Flannel shirts.  Live, laugh, love.",
         "image": "candle_fall_1.jpg"
     },
     {
         "price": 19.99,
-        "product_name": "Don't Trust The Weather Channel",
-        "description": "No sun, no clouds, no rain. Only vibes.",
+        "product_name": "Camping Is Never As Fun As You Think It Will Be",
+        "description": "The outdoor experience, indoors.",
         "image": "candle_fall_1.jpg"
     },
     {
         "price": 19.99,
-        "product_name": "Don't Trust The Weather Channel",
-        "description": "No sun, no clouds, no rain. Only vibes.",
+        "product_name": "I'm Not Lonely, You're Lonely",
+        "description": "You can't buy more friends, but you can buy more candles.",
         "image": "candle_fall_1.jpg"
     },
     {
         "price": 19.99,
-        "product_name": "Don't Trust The Weather Channel",
-        "description": "No sun, no clouds, no rain. Only vibes.",
+        "product_name": "That Book You Keep Saying You're Going To Read",
+        "description": "If you have time to enjoy a candle, you have time to read that book.",
         "image": "candle_fall_1.jpg"
     },
     {
         "price": 19.99,
-        "product_name": "Don't Trust The Weather Channel",
-        "description": "No sun, no clouds, no rain. Only vibes.",
+        "product_name": "Already Have Plans",
+        "description": "You never have to feel guilty for being a hermit.",
         "image": "candle_fall_1.jpg"
+    },
+    {
+        "price": 24.99,
+        "product_name": "Everyone Is Happy Sometimes",
+        "description": "By the time this candle is done burning, maybe you won't be depressed anymore.",
+        "image": "candle_fall_1.jpg"
+    },
+    {
+        "price": 29.99,
+        "product_name": "Monday Morning",
+        "description": "For those who love Mondays.",
+        "image": "candle_fall_1.jpg"
+    },
+    {
+        "price": 24.99,
+        "product_name": "Better Than Outside",
+        "description": "Why would you want to go outside? There's pollen and bugs and other people out there.",
+        "image": "candle_spring_1.jpg"
+    },
+    {
+        "price": 34.99,
+        "product_name": "A Bird In The Hand",
+        "description": "Is one less bird screeching outside of your window at dawn.",
+        "image": "candle_spring_1.jpg"
     },
     {
         "price": 19.99,
-        "product_name": "Don't Trust The Weather Channel",
-        "description": "No sun, no clouds, no rain. Only vibes.",
-        "image": "candle_fall_1.jpg"
+        "product_name": "Fancy Tea Party",
+        "description": "When even boiling water and patience is too much effort.",
+        "image": "candle_spring_1.jpg"
+    },
+    {
+        "price": 24.99,
+        "product_name": "Giraffe In Space",
+        "description": "It's so peaceful up there; not a single person commenting on the length of your neck.",
+        "image": "candle_spring_1.jpg"
+    },
+    {
+        "price": 54.99,
+        "product_name": "Octopus Playing Accordion",
+        "description": "Admit it... you're kind of curious.",
+        "image": "candle_spring_1.jpg"
     },
     {
         "price": 19.99,
-        "product_name": "Don't Trust The Weather Channel",
-        "description": "No sun, no clouds, no rain. Only vibes.",
-        "image": "candle_fall_1.jpg"
-    },
-    {
-        "price": 24.99,
-        "product_name": "Better Than Outside",
-        "description": "Why would you want to go outside? There's pollen and bugs and other people out there.",
+        "product_name": "Robot Vacuum Orchestra",
+        "description": "It's a loud candle.",
         "image": "candle_spring_1.jpg"
     },
     {
         "price": 24.99,
-        "product_name": "Better Than Outside",
-        "description": "Why would you want to go outside? There's pollen and bugs and other people out there.",
+        "product_name": "Ninja Turtle Wedding",
+        "description": "Burns as slow as the walk down the aisle.",
         "image": "candle_spring_1.jpg"
     },
     {
         "price": 24.99,
-        "product_name": "Better Than Outside",
-        "description": "Why would you want to go outside? There's pollen and bugs and other people out there.",
-        "image": "candle_spring_1.jpg"
-    },
-    {
-        "price": 24.99,
-        "product_name": "Better Than Outside",
-        "description": "Why would you want to go outside? There's pollen and bugs and other people out there.",
-        "image": "candle_spring_1.jpg"
-    },
-    {
-        "price": 24.99,
-        "product_name": "Better Than Outside",
-        "description": "Why would you want to go outside? There's pollen and bugs and other people out there.",
-        "image": "candle_spring_1.jpg"
-    },
-    {
-        "price": 24.99,
-        "product_name": "Better Than Outside",
-        "description": "Why would you want to go outside? There's pollen and bugs and other people out there.",
-        "image": "candle_spring_1.jpg"
-    },
-    {
-        "price": 24.99,
-        "product_name": "Better Than Outside",
-        "description": "Why would you want to go outside? There's pollen and bugs and other people out there.",
-        "image": "candle_spring_1.jpg"
-    },
-    {
-        "price": 24.99,
-        "product_name": "Better Than Outside",
-        "description": "Why would you want to go outside? There's pollen and bugs and other people out there.",
+        "product_name": "You Must Think I'm Edible",
+        "description": "But I'm not.  I'm made of wax.  Please do not eat the candle.",
         "image": "candle_spring_1.jpg"
     },
     {
@@ -102,87 +102,93 @@
         "image": "candle_summer_1.jpg"
     },
     {
-        "price": 49.99,
-        "product_name": "Can't Afford A Vacation",
-        "description": "Make any house a beach house.",
+        "price": 19.99,
+        "product_name": "Daytime Decade",
+        "description": "The days are finally long.  A little too long.",
         "image": "candle_summer_1.jpg"
     },
     {
-        "price": 49.99,
-        "product_name": "Can't Afford A Vacation",
-        "description": "Make any house a beach house.",
+        "price": 19.99,
+        "product_name": "Love Like A Summer Stock",
+        "description": "Hot and simmering.  Make a meal out of it.",
         "image": "candle_summer_1.jpg"
     },
     {
-        "price": 49.99,
-        "product_name": "Can't Afford A Vacation",
-        "description": "Make any house a beach house.",
+        "price": 24.99,
+        "product_name": "Wanting What You Can't Have",
+        "description": "You wanted this when it was winter, but now you wish it was cold again.",
         "image": "candle_summer_1.jpg"
     },
     {
-        "price": 49.99,
-        "product_name": "Can't Afford A Vacation",
-        "description": "Make any house a beach house.",
+        "price": 24.99,
+        "product_name": "The Ocean Is Alive",
+        "description": "Oh no, what just touched my leg?",
         "image": "candle_summer_1.jpg"
     },
     {
-        "price": 49.99,
-        "product_name": "Can't Afford A Vacation",
-        "description": "Make any house a beach house.",
+        "price": 19.99,
+        "product_name": "Eager Beaver",
+        "description": "This candle lights itself.  Might want to have a fire extinguisher nearby.",
         "image": "candle_summer_1.jpg"
     },
     {
-        "price": 49.99,
-        "product_name": "Can't Afford A Vacation",
-        "description": "Make any house a beach house.",
+        "price": 19.99,
+        "product_name": "Tapping The Maple",
+        "description": "It's a slow process, but worth it in the end.",
         "image": "candle_summer_1.jpg"
     },
     {
-        "price": 49.99,
-        "product_name": "Can't Afford A Vacation",
-        "description": "Make any house a beach house.",
+        "price": 19.99,
+        "product_name": "Lego Cherry Blossom",
+        "description": "A man-made version of the real thing.",
         "image": "candle_summer_1.jpg"
     },
     {
-        "price": 14.99,
+        "price": 24.99,
         "product_name": "The Hug You Never Got From Your Father",
         "description": "Buy the love you never received freely.",
         "image": "candle_winter_1.jpg"
     },
     {
-        "price": 14.99,
-        "product_name": "The Hug You Never Got From Your Father",
-        "description": "Buy the love you never received freely.",
+        "price": 3.99,
+        "product_name": "Debugging",
+        "description": "Try to relax, it's going to take forever.",
+        "image": "candle_winter_1.jpg"
+    },
+    {
+        "price": 24.99,
+        "product_name": "Rich Mahogany",
+        "description": "For when you want your friends to think your house smells like rich mahogany and leatherbound books.",
         "image": "candle_winter_1.jpg"
     },
     {
         "price": 14.99,
-        "product_name": "The Hug You Never Got From Your Father",
-        "description": "Buy the love you never received freely.",
+        "product_name": "Surrendering At Night",
+        "description": "It's dark literally all the time.  Just embrace it.",
         "image": "candle_winter_1.jpg"
     },
     {
         "price": 14.99,
-        "product_name": "The Hug You Never Got From Your Father",
-        "description": "Buy the love you never received freely.",
+        "product_name": "Zombie Apocalypse",
+        "description": "Is it happening?  You'll never know until it's too late.",
         "image": "candle_winter_1.jpg"
     },
     {
-        "price": 14.99,
-        "product_name": "The Hug You Never Got From Your Father",
-        "description": "Buy the love you never received freely.",
+        "price": 19.99,
+        "product_name": "Chatting And Chatting And Chatting And Chatting",
+        "description": "Extra long-lasting.",
         "image": "candle_winter_1.jpg"
     },
     {
-        "price": 14.99,
-        "product_name": "The Hug You Never Got From Your Father",
-        "description": "Buy the love you never received freely.",
+        "price": 19.99,
+        "product_name": "I'm The Splendid One",
+        "description": "Yes, the freshly fallen snow is majestic.  But so are you.",
         "image": "candle_winter_1.jpg"
     },
     {
-        "price": 14.99,
-        "product_name": "The Hug You Never Got From Your Father",
-        "description": "Buy the love you never received freely.",
+        "price": 19.99,
+        "product_name": "I've Been Hearing Himalaya",
+        "description": "The next best thing to a ski trip.",
         "image": "candle_winter_1.jpg"
     },
     {
@@ -192,45 +198,45 @@
         "image": "cologne_fall_1.jpg"
     },
     {
-        "price": 722.00,
-        "product_name": "Manly Man",
-        "description": "Leather.  Bourbon.  Cigars.  Big trucks.  Patriarchy.",
+        "price": 150.00,
+        "product_name": "Old Leather Boot",
+        "description": "Worn in with a hint of mystery.",
         "image": "cologne_fall_1.jpg"
     },
     {
-        "price": 722.00,
-        "product_name": "Manly Man",
-        "description": "Leather.  Bourbon.  Cigars.  Big trucks.  Patriarchy.",
+        "price": 44.99,
+        "product_name": "Fortnight",
+        "description": "Like the length of time, not the copyrighted game franchise.",
         "image": "cologne_fall_1.jpg"
     },
     {
-        "price": 722.00,
-        "product_name": "Manly Man",
-        "description": "Leather.  Bourbon.  Cigars.  Big trucks.  Patriarchy.",
+        "price": 104.99,
+        "product_name": "Waxwings",
+        "description": "Don't fly too close to the sun.",
         "image": "cologne_fall_1.jpg"
     },
     {
-        "price": 722.00,
-        "product_name": "Manly Man",
-        "description": "Leather.  Bourbon.  Cigars.  Big trucks.  Patriarchy.",
+        "price": 80.00,
+        "product_name": "Snowdrop",
+        "description": "Just a drop; builds the tension.",
         "image": "cologne_fall_1.jpg"
     },
     {
-        "price": 722.00,
-        "product_name": "Manly Man",
-        "description": "Leather.  Bourbon.  Cigars.  Big trucks.  Patriarchy.",
+        "price": 115.00,
+        "product_name": "Road To Freedom",
+        "description": "Even going nowhere is going somewhere.",
         "image": "cologne_fall_1.jpg"
     },
     {
-        "price": 722.00,
-        "product_name": "Manly Man",
-        "description": "Leather.  Bourbon.  Cigars.  Big trucks.  Patriarchy.",
+        "price": 120.00,
+        "product_name": "The Real Thing",
+        "description": "Well, a facsimile of the real thing.",
         "image": "cologne_fall_1.jpg"
     },
     {
-        "price": 722.00,
-        "product_name": "Manly Man",
-        "description": "Leather.  Bourbon.  Cigars.  Big trucks.  Patriarchy.",
+        "price": 74.99,
+        "product_name": "World Of Fantasy",
+        "description": "Yer a wizard!",
         "image": "cologne_fall_1.jpg"
     },
     {
@@ -240,45 +246,45 @@
         "image": "cologne_spring_1.jpg"
     },
     {
-        "price": 85.00,
-        "product_name": "Acoustic Guitar",
-        "description": "The only things you need to be attractive are three chords and good cologne.",
+        "price": 24.99,
+        "product_name": "Little Old Me",
+        "description": "Unlimited cosmic power, itty bitty living space.",
+        "image": "cologne_spring_1.jpg"
+    },
+    {
+        "price": 110.00,
+        "product_name": "Something New",
+        "description": "Buy yourself a little treat.  You deserve it.",
+        "image": "cologne_spring_1.jpg"
+    },
+    {
+        "price": 149.99,
+        "product_name": "Glitter On Your Fingers",
+        "description": "And in your hair.  And on your shoes.  And ground into the carpet.  Where it will stay forever.",
+        "image": "cologne_spring_1.jpg"
+    },
+    {
+        "price": 49.99,
+        "product_name": "Wedding Ring",
+        "description": "Made of 30% real gold!",
+        "image": "cologne_spring_1.jpg"
+    },
+    {
+        "price": 90.00,
+        "product_name": "Red Sky",
+        "description": "I don't know, I'm colorblind.",
+        "image": "cologne_spring_1.jpg"
+    },
+    {
+        "price": 24.99,
+        "product_name": "Fool's Gold",
+        "description": "Smells expensive.",
         "image": "cologne_spring_1.jpg"
     },
     {
         "price": 85.00,
-        "product_name": "Acoustic Guitar",
-        "description": "The only things you need to be attractive are three chords and good cologne.",
-        "image": "cologne_spring_1.jpg"
-    },
-    {
-        "price": 85.00,
-        "product_name": "Acoustic Guitar",
-        "description": "The only things you need to be attractive are three chords and good cologne.",
-        "image": "cologne_spring_1.jpg"
-    },
-    {
-        "price": 85.00,
-        "product_name": "Acoustic Guitar",
-        "description": "The only things you need to be attractive are three chords and good cologne.",
-        "image": "cologne_spring_1.jpg"
-    },
-    {
-        "price": 85.00,
-        "product_name": "Acoustic Guitar",
-        "description": "The only things you need to be attractive are three chords and good cologne.",
-        "image": "cologne_spring_1.jpg"
-    },
-    {
-        "price": 85.00,
-        "product_name": "Acoustic Guitar",
-        "description": "The only things you need to be attractive are three chords and good cologne.",
-        "image": "cologne_spring_1.jpg"
-    },
-    {
-        "price": 85.00,
-        "product_name": "Acoustic Guitar",
-        "description": "The only things you need to be attractive are three chords and good cologne.",
+        "product_name": "Mysterium",
+        "description": "We literally just mixed the leftovers of all the other scents.",
         "image": "cologne_spring_1.jpg"
     },
     {
@@ -288,45 +294,45 @@
         "image": "cologne_summer_1.jpg"
     },
     {
-        "price": 174.99,
-        "product_name": "Big Chosen One Energy",
-        "description": "You may not have been born the chosen one, but you're still better than everyone else.",
+        "price": 225.00,
+        "product_name": "Motorbike Adventure",
+        "description": "You can only wear this if you ride a motorcycle or have a glorious moustache.",
+        "image": "cologne_summer_1.jpg"
+    },
+    {
+        "price": 149.99,
+        "product_name": "Cherry-Jaded Blue",
+        "description": "Makes your heart beat like a river that runs through our hair.",
+        "image": "cologne_summer_1.jpg"
+    },
+    {
+        "price": 60.00,
+        "product_name": "Sharp Knife",
+        "description": "Simple.  Aggressive.",
+        "image": "cologne_summer_1.jpg"
+    },
+    {
+        "price": 250.00,
+        "product_name": "Haunted",
+        "description": "Blessed by the pope.  Guaranteed to keep the ghosts away.",
+        "image": "cologne_summer_1.jpg"
+    },
+    {
+        "price": 79.99,
+        "product_name": "Badge Over Problems",
+        "description": "Why fix something when you can just cover it up and pretend you're fine?",
         "image": "cologne_summer_1.jpg"
     },
     {
         "price": 174.99,
-        "product_name": "Big Chosen One Energy",
-        "description": "You may not have been born the chosen one, but you're still better than everyone else.",
+        "product_name": "New Old Yard",
+        "description": "Weird, but memorable.",
         "image": "cologne_summer_1.jpg"
     },
     {
-        "price": 174.99,
-        "product_name": "Big Chosen One Energy",
-        "description": "You may not have been born the chosen one, but you're still better than everyone else.",
-        "image": "cologne_summer_1.jpg"
-    },
-    {
-        "price": 174.99,
-        "product_name": "Big Chosen One Energy",
-        "description": "You may not have been born the chosen one, but you're still better than everyone else.",
-        "image": "cologne_summer_1.jpg"
-    },
-    {
-        "price": 174.99,
-        "product_name": "Big Chosen One Energy",
-        "description": "You may not have been born the chosen one, but you're still better than everyone else.",
-        "image": "cologne_summer_1.jpg"
-    },
-    {
-        "price": 174.99,
-        "product_name": "Big Chosen One Energy",
-        "description": "You may not have been born the chosen one, but you're still better than everyone else.",
-        "image": "cologne_summer_1.jpg"
-    },
-    {
-        "price": 174.99,
-        "product_name": "Big Chosen One Energy",
-        "description": "You may not have been born the chosen one, but you're still better than everyone else.",
+        "price": 24.99,
+        "product_name": "Quite Nice",
+        "description": "It's quite nice.",
         "image": "cologne_summer_1.jpg"
     },
     {
@@ -336,45 +342,45 @@
         "image": "cologne_winter_1.jpg"
     },
     {
-        "price": 65.00,
-        "product_name": "Last Minute Gift",
-        "description": "Who cares what it smells like?  It's not like you've got any other gift ideas.",
+        "price": 99.99,
+        "product_name": "Daddy",
+        "description": "Daddy?  Daddy.",
         "image": "cologne_winter_1.jpg"
     },
     {
-        "price": 65.00,
-        "product_name": "Last Minute Gift",
-        "description": "Who cares what it smells like?  It's not like you've got any other gift ideas.",
+        "price": 114.99,
+        "product_name": "Semievergreen",
+        "description": "Timeless.  Mostly.",
         "image": "cologne_winter_1.jpg"
     },
     {
-        "price": 65.00,
-        "product_name": "Last Minute Gift",
-        "description": "Who cares what it smells like?  It's not like you've got any other gift ideas.",
+        "price": 69.99,
+        "product_name": "Let's Talk About The Autumn",
+        "description": "Because why live in the present when you can be wistful about the past?",
         "image": "cologne_winter_1.jpg"
     },
     {
-        "price": 65.00,
-        "product_name": "Last Minute Gift",
-        "description": "Who cares what it smells like?  It's not like you've got any other gift ideas.",
+        "price": 110.00,
+        "product_name": "The Mystery Of The Dance",
+        "description": "Pull them in close, then they'll never want to leave.",
         "image": "cologne_winter_1.jpg"
     },
     {
-        "price": 65.00,
-        "product_name": "Last Minute Gift",
-        "description": "Who cares what it smells like?  It's not like you've got any other gift ideas.",
+        "price": 85.00,
+        "product_name": "Splendid Cold Wave",
+        "description": "Reckless snowing.  We are falling and falling and falling.",
         "image": "cologne_winter_1.jpg"
     },
     {
-        "price": 65.00,
-        "product_name": "Last Minute Gift",
-        "description": "Who cares what it smells like?  It's not like you've got any other gift ideas.",
+        "price": 174.99,
+        "product_name": "Northern Lights",
+        "description": "I thought they'd be prettier.",
         "image": "cologne_winter_1.jpg"
     },
     {
-        "price": 65.00,
-        "product_name": "Last Minute Gift",
-        "description": "Who cares what it smells like?  It's not like you've got any other gift ideas.",
+        "price": 49.99,
+        "product_name": "Arctic",
+        "description": "The essence of the polar bear.  Not literally.  No animals were harmed in the making of this cologne.",
         "image": "cologne_winter_1.jpg"
     },
     {
@@ -384,45 +390,45 @@
         "image": "perfume_fall_1.jpg"
     },
     {
-        "price": 89.50,
-        "product_name": "Howl At The Moon",
-        "description": "This is for you.  Do what you want.",
+        "price": 50.00,
+        "product_name": "London Style",
+        "description": "Irresistible to all Americans.",
         "image": "perfume_fall_1.jpg"
     },
     {
-        "price": 89.50,
-        "product_name": "Howl At The Moon",
-        "description": "This is for you.  Do what you want.",
+        "price": 25.00,
+        "product_name": "Small Town Girl",
+        "description": "It's about the Journey, not the destination.",
         "image": "perfume_fall_1.jpg"
     },
     {
-        "price": 89.50,
-        "product_name": "Howl At The Moon",
-        "description": "This is for you.  Do what you want.",
+        "price": 99.99,
+        "product_name": "Two Sides",
+        "description": "Keep them guessing with dueling scents.",
         "image": "perfume_fall_1.jpg"
     },
     {
-        "price": 89.50,
-        "product_name": "Howl At The Moon",
-        "description": "This is for you.  Do what you want.",
+        "price": 65.50,
+        "product_name": "City Lights",
+        "description": "Drive fast, but take it in slowly.",
         "image": "perfume_fall_1.jpg"
     },
     {
-        "price": 89.50,
-        "product_name": "Howl At The Moon",
-        "description": "This is for you.  Do what you want.",
+        "price": 105.00,
+        "product_name": "A Bit Of Red",
+        "description": "Mysterious and alluring.  Maybe stay away from bulls though.",
         "image": "perfume_fall_1.jpg"
     },
     {
-        "price": 89.50,
-        "product_name": "Howl At The Moon",
-        "description": "This is for you.  Do what you want.",
+        "price": 64.99,
+        "product_name": "Have To Cry",
+        "description": "Sometimes you just need to let it all out, and this scent is spicy enough to get those tears flowing.",
         "image": "perfume_fall_1.jpg"
     },
     {
-        "price": 89.50,
-        "product_name": "Howl At The Moon",
-        "description": "This is for you.  Do what you want.",
+        "price": 70.00,
+        "product_name": "Standing Here Waiting",
+        "description": "Might as well smell good doin' it.",
         "image": "perfume_fall_1.jpg"
     },
     {
@@ -432,45 +438,45 @@
         "image": "perfume_spring_1.jpg"
     },
     {
-        "price": 65.00,
-        "product_name": "Personal Space",
-        "description": "A scent so powerful, no one will get within five feet of you.",
+        "price": 75.00,
+        "product_name": "Ooh, Lilacs",
+        "description": "Smells like daffodils.",
+        "image": "perfume_spring_1.jpg"
+    },
+    {
+        "price": 88.88,
+        "product_name": "Wish For Two",
+        "description": "Two more extra days in the weekend, amiright?",
+        "image": "perfume_spring_1.jpg"
+    },
+    {
+        "price": 35.00,
+        "product_name": "Good Enough",
+        "description": "Not perfect, but not too bad either.",
+        "image": "perfume_spring_1.jpg"
+    },
+    {
+        "price": 149.99,
+        "product_name": "Paint The Sky",
+        "description": "I've always wanted someone to send me one of those skyplane messages.",
         "image": "perfume_spring_1.jpg"
     },
     {
         "price": 65.00,
-        "product_name": "Personal Space",
-        "description": "A scent so powerful, no one will get within five feet of you.",
+        "product_name": "Heart Speak",
+        "description": "Sounds vaguely... threatening?",
+        "image": "perfume_spring_1.jpg"
+    },
+    {
+        "price": 94.99,
+        "product_name": "Angel On My Shoulder",
+        "description": "And the devil at my feet.  Really, what would I do without those two?",
         "image": "perfume_spring_1.jpg"
     },
     {
         "price": 65.00,
-        "product_name": "Personal Space",
-        "description": "A scent so powerful, no one will get within five feet of you.",
-        "image": "perfume_spring_1.jpg"
-    },
-    {
-        "price": 65.00,
-        "product_name": "Personal Space",
-        "description": "A scent so powerful, no one will get within five feet of you.",
-        "image": "perfume_spring_1.jpg"
-    },
-    {
-        "price": 65.00,
-        "product_name": "Personal Space",
-        "description": "A scent so powerful, no one will get within five feet of you.",
-        "image": "perfume_spring_1.jpg"
-    },
-    {
-        "price": 65.00,
-        "product_name": "Personal Space",
-        "description": "A scent so powerful, no one will get within five feet of you.",
-        "image": "perfume_spring_1.jpg"
-    },
-    {
-        "price": 65.00,
-        "product_name": "Personal Space",
-        "description": "A scent so powerful, no one will get within five feet of you.",
+        "product_name": "Without Warning",
+        "description": "Something unexpected.  Take them by surprise, always.",
         "image": "perfume_spring_1.jpg"
     },
     {
@@ -480,45 +486,45 @@
         "image": "perfume_summer_1.jpg"
     },
     {
-        "price": 16.00,
-        "product_name": "Distraction",
-        "description": "Take your mind off the heat with this most unusual scent.",
+        "price": 18.99,
+        "product_name": "Midsummer",
+        "description": "A scent for the middle of the summer.  Or other times too, I guess.",
         "image": "perfume_summer_1.jpg"
     },
     {
-        "price": 16.00,
-        "product_name": "Distraction",
-        "description": "Take your mind off the heat with this most unusual scent.",
+        "price": 70.00,
+        "product_name": "White Sun",
+        "description": "SPF 50 or bust.",
         "image": "perfume_summer_1.jpg"
     },
     {
-        "price": 16.00,
-        "product_name": "Distraction",
-        "description": "Take your mind off the heat with this most unusual scent.",
+        "price": 160.00,
+        "product_name": "Silver Bullet",
+        "description": "Know when and how to use it, and you'll be unstoppable.",
         "image": "perfume_summer_1.jpg"
     },
     {
-        "price": 16.00,
-        "product_name": "Distraction",
-        "description": "Take your mind off the heat with this most unusual scent.",
+        "price": 99.99,
+        "product_name": "Vampire Meadow",
+        "description": "Makes you sparkle.  Literally, there's glitter in it.",
         "image": "perfume_summer_1.jpg"
     },
     {
-        "price": 16.00,
-        "product_name": "Distraction",
-        "description": "Take your mind off the heat with this most unusual scent.",
+        "price": 150.00,
+        "product_name": "Everybody's In Love With Me",
+        "description": "But I'm into myself, and that's really all that matters.",
         "image": "perfume_summer_1.jpg"
     },
     {
-        "price": 16.00,
-        "product_name": "Distraction",
-        "description": "Take your mind off the heat with this most unusual scent.",
+        "price": 200.00,
+        "product_name": "Someone Else Tonight",
+        "description": "When it's exhauting being you, just be someone else.",
         "image": "perfume_summer_1.jpg"
     },
     {
-        "price": 16.00,
-        "product_name": "Distraction",
-        "description": "Take your mind off the heat with this most unusual scent.",
+        "price": 74.99,
+        "product_name": "Drippin' In Finesse",
+        "description": "It's the real thing, no lie.",
         "image": "perfume_summer_1.jpg"
     },
     {
@@ -528,45 +534,45 @@
         "image": "perfume_winter_1.jpg"
     },
     {
-        "price": 899.99,
-        "product_name": "Prom Dress",
-        "description": "You may only wear it once, but at least it'll be memorable.",
+        "price": 49.99,
+        "product_name": "Always Remember",
+        "description": "All the things we said in December.",
+        "image": "perfume_winter_1.jpg"
+    },
+    {
+        "price": 65.00,
+        "product_name": "Wishing For Rain",
+        "description": "Moody and pensive.",
+        "image": "perfume_winter_1.jpg"
+    },
+    {
+        "price": 80.00,
+        "product_name": "That Kind Of Girl",
+        "description": "Nothing wrong with being that kind of girl.",
+        "image": "perfume_winter_1.jpg"
+    },
+    {
+        "price": 169.99,
+        "product_name": "Good Times",
+        "description": "Build a snowman.  Have some hot chocolate.  Set something on fire.",
+        "image": "perfume_winter_1.jpg"
+    },
+    {
+        "price": 75.00,
+        "product_name": "Forget Me Not",
+        "description": "One whiff and they'll remember you forever.",
+        "image": "perfume_winter_1.jpg"
+    },
+    {
+        "price": 24.99,
+        "product_name": "Hopes And Dreams",
+        "description": "It's just an empty bottle.",
         "image": "perfume_winter_1.jpg"
     },
     {
         "price": 899.99,
-        "product_name": "Prom Dress",
-        "description": "You may only wear it once, but at least it'll be memorable.",
-        "image": "perfume_winter_1.jpg"
-    },
-    {
-        "price": 899.99,
-        "product_name": "Prom Dress",
-        "description": "You may only wear it once, but at least it'll be memorable.",
-        "image": "perfume_winter_1.jpg"
-    },
-    {
-        "price": 899.99,
-        "product_name": "Prom Dress",
-        "description": "You may only wear it once, but at least it'll be memorable.",
-        "image": "perfume_winter_1.jpg"
-    },
-    {
-        "price": 899.99,
-        "product_name": "Prom Dress",
-        "description": "You may only wear it once, but at least it'll be memorable.",
-        "image": "perfume_winter_1.jpg"
-    },
-    {
-        "price": 899.99,
-        "product_name": "Prom Dress",
-        "description": "You may only wear it once, but at least it'll be memorable.",
-        "image": "perfume_winter_1.jpg"
-    },
-    {
-        "price": 899.99,
-        "product_name": "Prom Dress",
-        "description": "You may only wear it once, but at least it'll be memorable.",
+        "product_name": "Bad Dream",
+        "description": "You can either have one, or you can be one.  Go wild.",
         "image": "perfume_winter_1.jpg"
     }    
 ]

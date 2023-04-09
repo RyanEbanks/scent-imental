@@ -11,20 +11,20 @@ const userProductData = require('./userProductData.json');
 const seedDatabase = async () => {
   await sequelize.sync({ force: true });
 
-  const products = await Product.bulkCreate(productData);
+  await Product.bulkCreate(productData);
 
-  const productTags = await ProductTag.bulkCreate(productTagData);
-
-  const reviews = await Review.bulkCreate(reviewData);
-
-  const tagData = await Tag.bulkCreate(tagData);
-
-  const users = await User.bulkCreate(userData, {
+  await Tag.bulkCreate(tagData);
+  
+  await ProductTag.bulkCreate(productTagData);
+  
+  await User.bulkCreate(userData, {
     individualHooks: true,
     returning: true,
   });
+  
+  await Review.bulkCreate(reviewData);
 
-  const userProductData = await Tag.bulkCreate(userProductData);
+  await UserProduct.bulkCreate(userProductData);
 
   process.exit(0);
 };
