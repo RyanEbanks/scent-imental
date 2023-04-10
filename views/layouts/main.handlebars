@@ -23,10 +23,16 @@
                 <li><strong>Scentimental</strong></li>
             </ul>
             <ul>
+                
+                {{#if logged_in}}
+                {{!-- need to add route to log out --}}
+                <li><a href="">LogOut</a></li>
+                {{else}}
                 <span class="material-symbols-outlined account-icon ">person</span>
                 <li><a href="/signup">Sign Up</a></li>
                 <span class="material-symbols-outlined account-icon">login</span>
                 <li><a href="/login">Login</a></li>
+                {{/if}}
             </ul>
         </nav>
     </nav>
@@ -36,6 +42,9 @@
     <footer>
         <p>Powered by Whiff</p>
     </footer>
+    {{#if logged_in}}
+    <script src="/public/js/logout.js"></script>
+    {{/if}}
 </body>
 
 </html>
