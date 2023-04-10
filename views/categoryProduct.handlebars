@@ -1,7 +1,59 @@
-{{#each product}}
-<article>
-    <ul>
-        <li>{{this.product_name}}</li>
-    </ul>
-</article>
-{{/each}}
+<!-- Hero -->
+    <div class="hero" data-theme="dark">
+        <div class="container hero-info">
+            <hgroup>
+                <h1 class="anim1">Featured Scent!</h1>
+                <h1 class="anim1">Eucalyptus Tree</h1>
+            </hgroup>
+            <!-- Not sure if we need this yet -->
+            <p class="anim1"><a href="#" role="button" onclick="event.preventDefault()">Click to view</a></p>
+        </div>
+    </div><!-- ./ Hero -->
+
+
+<div class="flex-container"></div>
+    {{#each product}}
+    {{!-- <article>
+        <ul>
+            <li>{{this.product_name}}</li>
+        </ul>
+    </article> --}}
+    <div class="center">
+            <article class="card">
+            <h1 class="cardText">{{this.product_name}}</h1>
+            <img src="{{this.image}}" class="img" alt="">
+            </article>
+    </div>
+    {{/each}}
+</div>
+
+
+
+{{!-- <div class="flex-container">
+        <div class="center">
+            <article class="card">
+            <h1 class="cardText">[Text]</h1>
+            <img src="../../public/images/candle_summer_1.jpg" class="img" alt="">
+            </article>
+        </div>
+
+        <div class="center">
+            <article class="card">
+            <h1 class="cardText">[Text]</h1>
+            <img src="../../public/images/perfume_spring_1.jpg" class="img" alt="">
+            </article>
+        </div>
+        <div class="center">
+            <article class="card">
+            <h1 class="cardText">[Text]</h1>
+            <img src="../../public/images/cologne_summer_1.jpg" class="img" alt="">
+            </article>
+        </div>
+        <div class="center">
+            <article class="card">
+            <h1 class="cardText">[Text]</h1>
+            <img src="../../public/images/cologne_winter_1.jpg" class="img" alt="">
+            </article>
+        </div>
+
+    </div> --}}

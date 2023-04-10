@@ -1,5 +1,9 @@
+{{!-- Product Name --}}
 <h1>{{product.product_name}}</h1>
+<h2>{{product.description}}</h2>
+<img src="/images/{{product.image}}" alt="{{product.product_name}}">
 
+{{!-- Displaying reviews --}}
 {{#if product.reviews}}
     {{#each product.reviews}}
     <article>
@@ -9,7 +13,8 @@
                 data-value="{{rating}}"
                 data-static="true"><br>
                 {{review_description}}<br>
-                Posted by: {{user.first_name}}</li>
+                Posted by: {{user.first_name}}
+            </li>
         </ul>
     </article>
     {{/each}}
