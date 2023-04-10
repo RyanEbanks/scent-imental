@@ -22,6 +22,7 @@
 
 
 {{!-- Form to post new review --}}
+{{#if logged_in}}
 <div class="review card">
   <div class="card-header">
     <h2>Review This Product</h2>
@@ -37,6 +38,9 @@
     <button type="submit" class="btn">Post Review</button>
   </form>
 </div>
+{{else}}
+<article>Log in to leave a review!</article>
+{{/if}}
 
 <script src="https://cdn.korzh.com/metroui/v4.5.1/js/metro.min.js"></script>
 <script src="/js/newReview.js"></script>
