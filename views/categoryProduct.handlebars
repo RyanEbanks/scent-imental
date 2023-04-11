@@ -12,14 +12,17 @@
 
 
 <div class="flex-container"></div>
+    <article class="img-container">
     {{#each product}}
-    <div class="center">
+    {{!-- <article class="img-container"> --}}
             <a href="/item/{{this.id}}" >
-                <article class="card">
-                <h1 class="cardText">{{this.product_name}}</h1>
+                {{!-- <article class="card"> --}}
+                {{!-- <h1 class="cardText">{{this.product_name}}</h1> --}}
                 <img src="/images/{{this.image}}" class="img" alt="">
-                </article>
+                <div class="middle">{{this.product_name}}</div>
+                {{!-- </article> --}}
             </a>
-    </div>
+        {{!-- </article> --}}
     {{/each}}
+    </article>
 </div>
