@@ -1,4 +1,4 @@
-a {
+.hover-text {
     margin: 0px;
 }
 
@@ -60,11 +60,11 @@ a {
     text-align: center;
 }
 
-a:hover .img {
+.hover-text:hover .img {
     opacity: 0.3;
 }
 
-a:hover .middle {
+.hover-text:hover .middle {
     opacity: 1;
 }
 

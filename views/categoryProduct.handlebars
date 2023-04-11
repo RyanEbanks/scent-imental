@@ -14,15 +14,10 @@
 <div class="flex-container"></div>
     <article class="img-container">
     {{#each product}}
-    {{!-- <article class="img-container"> --}}
-            <a href="/item/{{this.id}}" >
-                {{!-- <article class="card"> --}}
-                {{!-- <h1 class="cardText">{{this.product_name}}</h1> --}}
+            <div class="hover-text" href="/item/{{this.id}}" onclick="location.href='/item/{{this.id}}'" >
                 <img src="/images/{{this.image}}" class="img" alt="">
                 <div class="middle">{{this.product_name}}</div>
-                {{!-- </article> --}}
-            </a>
-        {{!-- </article> --}}
+            </div>
     {{/each}}
     </article>
 </div>
