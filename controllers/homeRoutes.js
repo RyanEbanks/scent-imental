@@ -90,12 +90,12 @@ router.get('/signup', (req, res) => {
 router.get('/user/:id', async (req, res) => {
   try {
       // res.status(200).json("Single item Route Working!")
-      const userData = await User.findByPk(req.params.id, {
+      const userData = await Product.findAll( {
         include: [
           {
-            model: Product, 
+            model: User, 
             through: UserProduct,
-            include: [User, Product],
+            //include: [User, Product],
             where: {
               user_id: req.params.id
             },
