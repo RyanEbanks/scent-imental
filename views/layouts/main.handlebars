@@ -17,6 +17,7 @@
 </head>
 
 <body>
+<div class="full-nav">
     <nav class="outer-nav">
         <nav class="inner-nav">
             <ul>
@@ -41,11 +42,19 @@
             </ul>
         </nav>
     </nav>
-
+</div>
     {{{body}}}
     
-    <footer>
-        <p>Powered by Whiff</p>
+   <footer class="myfooter">
+        <section class="footer-content">
+        <section class="top-footer">
+            <h3>Powered by Whiff</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis neque fugiat nesciunt deleniti esse?</p>
+        </section>
+        <section class="bottom-footer">
+            <p>copyright &copy;2023 scentimental.</p>
+        </section>
+    </section>
     </footer>
     {{#if logged_in}}
     <script src="/js/logout.js"></script>
