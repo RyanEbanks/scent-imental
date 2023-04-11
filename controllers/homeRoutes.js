@@ -84,5 +84,28 @@ router.get('/signup', (req, res) => {
   res.render('signup', {logged_in: req.session.logged_in});
   // res.status(200).json("Signup Route Working!")
 });
+
+router.get('/user/:id', async (req, res) => {
+  try {
+      // res.status(200).json("Single item Route Working!")
+      const userData = await User.findByPk(req.params.id, {
+        include: [
+          {
+            model: Product, 
+            through: UserProduct,
+            include: [User, Product],
+            where: {
+              user_id: req.params.id
+            },
+          }
+        ],
+      });
+      const user = userData.get({plain: true});
+      console.log(user);
+      res.render('favorites', { user, logged_in: req.session.logged_in });
+  } catch(err) {
+      res.status(500).json(err);
+  }
+});
   
   module.exports = router;
