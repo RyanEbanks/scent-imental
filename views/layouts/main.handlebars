@@ -22,7 +22,7 @@
         <nav class="inner-nav">
             <ul>
                 <li>
-                    <a href="/" class="logo">
+                    <a href="/" class="logo nav-menu">
                     <strong>Scentimental</strong>
                     </a>
                 </li>
@@ -30,14 +30,11 @@
             <ul>
                 
                 {{#if logged_in}}
-                {{!-- need to add route to log out --}}
-                <li><a id='favorites' href="/user/{{user_id}}">Favorites</a></li>
-                <li><a id='logout' href="/">LogOut</a></li>
+                <li><a id='favorites' class="nav-menu" href="/user/{{user_id}}">Favorites</a></li>
+                <li><a id='logout' class="nav-menu" href="/">LogOut</a></li>
                 {{else}}
-                <span class="material-symbols-outlined account-icon ">person</span>
-                <li><a href="/signup">Sign Up</a></li>
-                <span class="material-symbols-outlined account-icon">login</span>
-                <li><a href="/login">Login</a></li>
+                <li><a class="nav-menu" href="/signup">Sign Up</a></li>
+                <li><a class="nav-menu" href="/login">Login</a></li>
                 {{/if}}
             </ul>
         </nav>
