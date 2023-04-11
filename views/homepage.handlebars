@@ -31,23 +31,34 @@
 <!-- Main -->
 <main class="container myborder">
     <div class="grid">
-        <article class="seasons">
-                <img src="/images/front-end-imgs/winter-1.jpg" alt="winter cover" class="cover-img">
-                <h1 class="season-title">Winter</h1>
-        </article>
-        <article class="seasons">
-            <img src="/images/front-end-imgs/spring-1.jpg" alt="spring cover" class="cover-img grid">
-            <h1 class="season-title grid">Spring</h1>
-        </article>
+        {{!-- loads Winter --}}
+        <a href="/category/winter">
+            <article class="seasons">
+                    <img src="/images/front-end-imgs/winter-1.jpg" alt="winter cover" class="cover-img">
+                    <h1 class="season-title">Winter</h1>
+            </article>
+        </a>
+        {{!-- loads Spring --}}
+        <a href="/category/spring">
+            <article class="seasons">
+                <img src="/images/front-end-imgs/spring-1.jpg" alt="spring cover" class="cover-img grid">
+                <h1 class="season-title grid">Spring</h1>
+            </article>
+        </a>
     </div>
     <div class="grid">
-        <article class="seasons">
-            <img src="/images/front-end-imgs/summer-1.jpg" alt="summer cover" class="cover-img">
-            <h1 class="season-title">Summer</h1>
-        </article>
-        <article class="seasons">
-            <img src="/images/front-end-imgs/fall-1.jpg" alt="summer cover" class="cover-img">
-            <h1 class="season-title">Fall</h1>
-        </article>
+        {{!-- loads Summer --}}
+        <a href="/category/summer">
+            <article class="seasons">
+                <img src="/images/front-end-imgs/summer-1.jpg" alt="summer cover" class="cover-img">
+                <h1 class="season-title">Summer</h1>
+            </article>
+        </a>
+        <a href="/category/fall">
+            <article class="seasons">
+                <img src="/images/front-end-imgs/fall-1.jpg" alt="summer cover" class="cover-img">
+                <h1 class="season-title">Fall</h1>
+            </article>
+        </a>
     </div>
 </main><!-- ./ Main -->

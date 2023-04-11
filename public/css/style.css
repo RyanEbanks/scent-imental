@@ -78,6 +78,10 @@
     flex-direction: row;
 }
 
+.seasons:hover{
+    filter: brightness(85%);
+}
+
 .season-title {
     margin: auto;
 }
@@ -90,4 +94,12 @@ footer {
 
 .blurb{
     padding-top: 2rem;
+}
+
+.logo{
+    color: hsl(205, 20%, 32%);
+}
+
+.remDec{
+    text-decoration: none;
 }
