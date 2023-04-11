@@ -2,13 +2,23 @@
 
 {{#if user.products}}
     {{#each user.products}}
-    <div class="center">
-            <article class="card">
-            <h1 class="cardText">{{product_name}}</h1>
-            <img src="/images/{{image}}" class="img" alt="">
+    <div class="left">
+            <a data-id="{{id}}" href="/item/{{id}}">
+            <article class="fav-container">
+                <img src="/images/{{image}}" class="fav-img" alt="">
+            <div class="fav-text-container">
+                <h1 class="cardText">{{product_name}}</h1>
+                <form id="delete-favorites">
+                <button type="submit">Delete from favorites</button>
+                </form>
+            </div>
             </article>
+            </a>
     </div>
     {{/each}}
 {{else}}
 <h2>No favorites added.</h2>
 {{/if}}
+
+
+<script src="/js/favorites.js"></script>

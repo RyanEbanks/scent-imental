@@ -28,7 +28,7 @@ router.get('/item/:id', async (req, res) => {
       const product = productData.get({plain: true});
       //Debugging
       console.log("product:", product);
-      res.render('singleProduct', { product, logged_in: req.session.logged_in });
+      res.render('singleProduct', { product, user_id: req.session.user_id, logged_in: req.session.logged_in });
   } catch(err) {
       res.status(500).json(err);
   }
@@ -58,7 +58,7 @@ router.get('/category/:tag', async (req, res) => {
     
     // console.log("Rendering category product page");
     // res.status(200).json("Retrieving all tags Route Working!")
-    res.render('categoryProduct', { product, logged_in: req.session.logged_in });
+    res.render('categoryProduct', { product, user_id: req.session.user_id, logged_in: req.session.logged_in });
   } catch(err) {
     res.status(500).json(err);
   }
@@ -98,7 +98,7 @@ router.get('/user/:id', async (req, res) => {
       });
       const user = userData.get({plain: true});
       console.log(user);
-      res.render('favorites', { user, logged_in: req.session.logged_in });
+      res.render('favorites', { user, user_id: req.session.user_id, logged_in: req.session.logged_in });
   } catch(err) {
       res.status(500).json(err);
   }
