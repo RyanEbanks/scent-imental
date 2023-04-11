@@ -1,5 +1,5 @@
 {{!-- Product Name --}}
-<h1>{{product.product_name}}</h1>
+<h1 class="first-after-nav">{{product.product_name}}</h1>
 <h2>{{product.description}}</h2>
 <img src="/images/{{product.image}}" alt="{{product.product_name}}">
 
@@ -23,7 +23,7 @@
 
 {{!-- Form to post new review --}}
 {{#if logged_in}}
-<div class="review card">
+<div class="review">
   <div class="card-header">
     <h2>Review This Product</h2>
   </div>
