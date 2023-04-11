@@ -18,18 +18,16 @@ router.get('/item/:id', async (req, res) => {
       // res.status(200).json("Single item Route Working!")
       const productData = await Product.findByPk(req.params.id, {
         include: [
-          User,
+          User, 
           {
             model: Review,
-            include: [User, Product],
-            where: {
-              product_id: req.params.id
-            },
+            include: [User]
           }
         ],
       });
       const product = productData.get({plain: true});
-      console.log(product);
+      //Debugging
+      console.log("product:", product);
       res.render('singleProduct', { product, logged_in: req.session.logged_in });
   } catch(err) {
       res.status(500).json(err);
