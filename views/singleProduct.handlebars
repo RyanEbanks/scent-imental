@@ -1,7 +1,16 @@
 {{!-- Product Name --}}
-<h1>{{product.product_name}}</h1>
-<h2>{{product.description}}</h2>
-<img src="/images/{{product.image}}" alt="{{product.product_name}}">
+<article class="product-container">
+  <img id="single-product-img" src="/images/{{product.image}}" alt="{{product.product_name}}">
+  <article class="product-name-container">
+    <h1 class="first-after-nav">{{product.product_name}}</h1>
+    <p>{{product.description}}</p>
+    {{#if logged_in}}
+    <form id="update-favorites">
+      <button type="submit">Add to favorites</button>
+    </form>
+    {{/if}}
+  </article>
+</article>
 
 {{!-- Displaying reviews --}}
 {{#if product.reviews}}
@@ -23,7 +32,7 @@
 
 {{!-- Form to post new review --}}
 {{#if logged_in}}
-<div class="review card">
+<div class="review">
   <div class="card-header">
     <h2>Review This Product</h2>
   </div>
@@ -44,3 +53,4 @@
 
 <script src="https://cdn.korzh.com/metroui/v4.5.1/js/metro.min.js"></script>
 <script src="/js/newReview.js"></script>
+<script src="/js/favorites.js"></script>

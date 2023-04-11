@@ -6,20 +6,18 @@
                 <h1 class="anim1">Eucalyptus Tree</h1>
             </hgroup>
             <!-- Not sure if we need this yet -->
-            <p class="anim1"><a href="#" role="button" onclick="event.preventDefault()">Click to view</a></p>
+            {{!-- <p class="anim1"><a href="#" role="button" onclick="event.preventDefault()">Click to view</a></p> --}}
         </div>
     </div><!-- ./ Hero -->
 
 
 <div class="flex-container"></div>
+    <article class="img-container">
     {{#each product}}
-    <div class="center">
-            <a href="/item/{{this.id}}" >
-                <article class="card">
-                <h1 class="cardText">{{this.product_name}}</h1>
+            <div class="hover-text" href="/item/{{this.id}}" onclick="location.href='/item/{{this.id}}'" >
                 <img src="/images/{{this.image}}" class="img" alt="">
-                </article>
-            </a>
-    </div>
+                <div class="middle">{{this.product_name}}</div>
+            </div>
     {{/each}}
+    </article>
 </div>
