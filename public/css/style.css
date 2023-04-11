@@ -233,6 +233,10 @@ background-color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
+.no-bullet{
+    list-style-type: none;
+}
+
 /* Media Queries */
 /* Extra Small Devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
