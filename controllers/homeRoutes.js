@@ -1,4 +1,5 @@
 const router = require('express').Router();
+const { response } = require('express');
 const {Product, ProductTag, Review, Tag, User, UserProduct} = require('../models/');
 
 // get all posts for homepage
@@ -39,15 +40,25 @@ router.get('/item/:id', async (req, res) => {
 router.get('/category/:tag', async (req, res) => {
   try {
     const productData = await Product.findAll({
-      include: [{all: true}],
+      include: [
+      {
+        model: Tag,
+        through: ProductTag,
+        where: {
+          tag_name: req.params.tag
+        },
+      }
+      ],
     });
-    
+
     const product = productData.map((prod) => prod.get({ plain: true }));
     
-    if (!productData) {
+    if (!product || product.length === 0) {
       res.status(404).json({ message: 'No product found with this id!' });
       return;
     }
+    
+    // console.log("Rendering category product page");
     // res.status(200).json("Retrieving all tags Route Working!")
     res.render('categoryProduct', { product, logged_in: req.session.logged_in });
   } catch(err) {
