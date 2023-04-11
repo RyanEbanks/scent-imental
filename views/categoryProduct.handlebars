@@ -14,10 +14,12 @@
 <div class="flex-container"></div>
     {{#each product}}
     <div class="center">
-            <article class="card">
-            <h1 class="cardText">{{this.product_name}}</h1>
-            <img src="/images/{{this.image}}" class="img" alt="">
-            </article>
+            <a href="/item/{{this.id}}" >
+                <article class="card">
+                <h1 class="cardText">{{this.product_name}}</h1>
+                <img src="/images/{{this.image}}" class="img" alt="">
+                </article>
+            </a>
     </div>
     {{/each}}
 </div>
