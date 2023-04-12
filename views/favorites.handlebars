@@ -3,13 +3,13 @@
 {{#if user.products}}
     {{#each user.products}}
     <div class="left">
-            <a data-id="{{id}}" href="/item/{{id}}">
+            <a href="/item/{{id}}">
             <article class="fav-container">
                 <img src="/images/{{image}}" class="fav-img" alt="">
             <div class="fav-text-container">
                 <h1 class="cardText">{{product_name}}</h1>
                 <form id="delete-favorites">
-                <button type="submit">Delete from favorites</button>
+                <button id="delete-button" data-id="{{id}}" type="submit">Delete from favorites</button>
                 </form>
             </div>
             </article>
