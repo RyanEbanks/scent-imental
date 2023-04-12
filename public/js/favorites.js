@@ -20,17 +20,28 @@ const deleteFavoritesHandler = async (event) => {
     const deleteButton = document.getElementById("delete-button");
     const delete_id = deleteButton.getAttribute("data-id");
     console.log(delete_id);
-
+    console.log({ product_id: Number(delete_id) });
 
     const response = await fetch(`/api/favorite/${delete_id}`, {
     method: "DELETE",
     body: JSON.stringify({ product_id: Number(delete_id) }),
-    });  
+    });
+    
+    if(!response || !response.ok) {
+        alert(response.json());
+    } else {
+        document.location.reload();
+    }
 };
-  
-// document
-//     .querySelector("#update-favorites")
-//     .addEventListener("submit", addFavoritesHandler);
-document
-    .querySelector("#delete-favorites")
-    .addEventListener("submit", deleteFavoritesHandler);
+
+const deleteEl = document.querySelector("#delete-favorites");
+const updateEl = document.querySelector("#update-favorites");
+
+if(deleteEl) {
+    deleteEl.addEventListener("submit", deleteFavoritesHandler);
+}
+
+if(updateEl) {
+   updateEl.addEventListener("submit", addFavoritesHandler);
+}
+

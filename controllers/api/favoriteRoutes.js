@@ -13,11 +13,12 @@ router.post('/', async (req, res) => {
 });
 
 router.delete('/:id', async (req, res) => {
-    console.log(req);
+    console.log(req.body);
+    console.log(req.params.id, req.session.user_id);
   try {
       const deletedFav = await UserProduct.destroy({
         where: {       
-          product_id: req.body.delete_id,
+          product_id: req.params.id,
           user_id: req.session.user_id,
         },
       });
