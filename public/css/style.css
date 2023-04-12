@@ -99,6 +99,9 @@ background-color: rgb(255, 255, 255);
 .first-after-nav{
     margin-top: 100px;
 }
+.first-after-nav-more{
+    margin-top: 150px;
+}
 
 .myborder{
     width: 80%;
@@ -108,7 +111,6 @@ background-color: rgb(255, 255, 255);
 
 /* Hero Banner */
 .hero {
-    margin-top: 1%;
     margin-bottom: 0;
     background-color: #394046;
     background-image: url("../images/front-end-imgs/newtest.png");
@@ -214,6 +216,11 @@ background-color: rgb(255, 255, 255);
 
 .no-bullet{
     list-style-type: none;
+}
+
+.logo-adj{
+    height: 6rem;
+    border-radius: 10px;
 }
 
 /* Media Queries */
