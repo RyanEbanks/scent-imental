@@ -1,6 +1,7 @@
 const router = require('express').Router();
 const { UserProduct } = require('../../models');
 
+//Runs when logged in user adds an item to their favorites from the singleProduct page
 router.post('/', async (req, res) => {
     try {
         await UserProduct.create({
@@ -12,6 +13,7 @@ router.post('/', async (req, res) => {
     }
 });
 
+//Runs when logged in user deletes a favorite item from their favorites page
 router.delete('/:id', async (req, res) => {
     console.log(req.body);
     console.log(req.params.id, req.session.user_id);
@@ -25,16 +27,6 @@ router.delete('/:id', async (req, res) => {
   
       res.status(200).json(deletedFav);
 
-    // sequelize.literal(
-    //     `DELETE FROM userproduct WHERE product_id=${req.body.delete_id} AND user_id=${req.session.user_id}`
-    // )
-
-    // const favoritesData = await UserProduct.findAll({
-    //    where: {
-    //     product_id: req.body.delete_id,
-    //    } 
-    // });
-    // console.log(favoritesData);
   } catch (err) {
     res.status(500).json(err);
   }

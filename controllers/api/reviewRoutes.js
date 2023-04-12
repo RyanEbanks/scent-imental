@@ -2,6 +2,7 @@ const router = require('express').Router();
 const { Review } = require('../../models');
 const withAuth = require('../../utils/auth');
 
+//Runs when logged in user adds a review to the singleProduct page
 router.post('/', withAuth, async (req, res) => {
   try {
     const newReview = await Review.create({
