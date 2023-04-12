@@ -11,6 +11,27 @@
     margin: 0px;
 }
 
+.nav-menu {
+    color: #415462;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* After adds the line below*/
+.nav-menu::after {
+    content: '';
+    width: 0;
+    height: 3px;
+    background-color: #415462;
+    margin: auto;
+    display: block;
+}
+
+.nav-menu:hover::after {
+    transition: 0.2s linear;
+    width: 100%;
+}
+
 .img {
     border-radius: 0px;
     margin: 5px;
