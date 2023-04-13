@@ -121,7 +121,7 @@ background-color: rgb(255, 255, 255);
     margin-top: 100px;
 }
 .first-after-nav-more{
-    margin-top: 150px;
+    margin-top: 100px;
 }
 
 .myborder{
@@ -242,6 +242,16 @@ background-color: rgb(255, 255, 255);
 .logo-adj{
     height: 6rem;
     border-radius: 10px;
+    margin-bottom: 0;
+}
+
+.logo-adj:hover{
+    cursor: pointer;
+}
+
+.remSpace{
+    padding-top: 0%;
+    padding-bottom: 0%;
 }
 
 /* Media Queries */
