@@ -249,19 +249,34 @@ background-color: rgb(255, 255, 255);
 @media only screen and (max-width: 600px) {
     /* CSS rules for extra small devices go here */
     .hero {
-        height: 50vh;
-        background-size: contain;
-
+        margin-top: 20%;
+        height: 60vh;
+        background-image: url("../images/cover.png");
+        background-size: cover;
     }
+
+    .hero-info {
+        display: flex;
+        text-align: center;
+        margin: auto;
+        background-color: #394046;;
+        padding: auto;
+        width: 100%;
+    }
+
     .text-info-1 {
         font-size: 15px;
     }
+
     .text-info-2 {
         font-size: 10px !important;
+        color: #fff;
     }
+
     .season-title {
         font-size: 1rem;
     }
+
     .cover-img {
         height: 150px;
         width: 100px;  
@@ -272,14 +287,27 @@ background-color: rgb(255, 255, 255);
   @media only screen and (max-width: 768px) {
     /* CSS rules for small devices go here */
     .hero {
+        margin-top: 20%;
         height: 70vh;
+        background-image: url("../images/cover.png");
         background-size: cover;
+        background-position: bottom;
     }
+
+    .hero-info {
+        display: flex;
+        text-align: center;
+        margin: auto;
+        background-color: #394046;
+        width: 100%;
+    }
+
     .text-info-1 {
         font-size: 20px;
     }
     .text-info-2 {
         font-size: 15px !important;
+        color: #fff;
     }
     .season-title {
         font-size: 1rem;
@@ -290,24 +318,3 @@ background-color: rgb(255, 255, 255);
     }
   }
   
-  /* Medium Devices (tablets, 992px and up) */
-  @media only screen and (max-width: 992px) {
-    /* CSS rules for medium devices go here */
-    .hero {
-        height: 80vh;
-        background-size: contain;
-    }
-    .text-info-1 {
-        font-size: 1.5rem;
-    }
-    .text-info-2 {
-        font-size: 0.8rem !important;
-    }
-    .season-title {
-        font-size: 1rem;
-    }
-    .cover-img {
-        height: 150px;
-        width: 100px;
-    }
-  }
