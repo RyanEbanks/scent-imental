@@ -311,24 +311,3 @@ background-color: rgb(255, 255, 255);
     }
   }
   
-  /* Medium Devices (tablets, 992px and up)
-  @media only screen and (min-width: 992px) {
-    /* CSS rules for medium devices go here */
-    /* .hero {
-        height: 80vh;
-        background-size: cover;
-    }
-    .text-info-1 {
-        font-size: 1.5rem;
-    }
-    .text-info-2 {
-        font-size: 0.8rem !important;
-    }
-    .season-title {
-        font-size: 1rem;
-    }
-    .cover-img {
-        height: 150px;
-        width: 100px;
-    }
-  } */ 
