@@ -3,7 +3,7 @@ This is a full-stack e-commerce website.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Video Link
+## Website Link
 [Click Here!](https://frozen-brushlands-88801.herokuapp.com/)
 
 ## Description
