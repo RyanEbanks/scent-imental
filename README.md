@@ -4,7 +4,7 @@ This is a full-stack e-commerce website.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Website Link
-[Click Here!](https://frozen-brushlands-88801.herokuapp.com/)
+[Click Here!](https://youtu.be/3zjsBKo1IlY)
 
 ## Description
 Scent-imental is an ecommerce website for a business that will be opening soon. The website is available to showcase the products that the business will provide. Scent-imental has multiple fuctionalities. The user can sign up with their email, login to their own account and log out when finished. Then the user may scroll through the website to view products and give the business owners an idea as to what products they may or may not like by using the review and favorite functionalities, both of which can only be done when logged in. Users can also view the reviews of other users to each of the products when logged in.
